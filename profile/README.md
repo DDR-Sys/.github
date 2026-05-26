@@ -1,11 +1,10 @@
 <div align="center">
 
-
-<h3 align="center">DDR Tecnologia</h3>
 <p align="center">
   <i>Building intelligent systems that connect Data, AI and Business</i>
 </p>
 
+<img src="https://img.magnific.com/vector-premium/cada-maquina-piso-fabrica-esta-equipada-software-avanzado-que-constantemente-reune_216520-106710.jpg" />
 
 ---
 
