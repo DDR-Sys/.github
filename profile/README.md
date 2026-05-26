@@ -1,12 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
 
-**Here are some ideas to get you started:**
+<h3 align="center">DDR Tecnologia</h3>
+<p align="center">
+  <i>Building intelligent systems that connect Data, AI and Business</i>
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+---
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=py,django,js,ts,nodejs,react,vue,vite,tensorflow,pytorch,sklearn,fastapi,cloudflare,aws,gcp,azure,nginx,selenium,git,docker,terraform,postman,vitest,kafka,postgres,redis,rabbitmq,mongodb,elasticsearch,arch,,&perline=10" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/data-engineer-ai-python">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:pizanao@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+</p>
+
+</div>
+
+
+---
+
